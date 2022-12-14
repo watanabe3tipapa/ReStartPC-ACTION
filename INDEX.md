@@ -1,28 +1,33 @@
 # INDEX
 
 ## URL
-</br>
 
 [プロジェクト・サイト_main](https://restart-pc.super.site/)
 
 [main / Opens in new tab](https://external.ink?to=/restart-pc.super.site/)
 
+</br>
+
 [プロジェクト・サイト_sub](https://restartpc.siteoly.com/)
 
+---
 
 ## contents
-</br>
 
 [README](./README.md)
 
 
 <details><summary>Files</summary>
 
-[I](./INDEX.md)
+[Index](./INDEX.md)
 
-[R](./README.md)
+[README](./README.md)
 
-[L](./LICENSE.md)
+[LICENSE](./LICENSE.md)
+
+
+
+
 </details>
 
 <details><summary>TEST</summary>
@@ -34,9 +39,9 @@ ls -la
 ```
 </details>
 
-
 </br>
-// UC
+
+> Under Construction
 ---
 
 
