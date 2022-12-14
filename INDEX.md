@@ -10,7 +10,7 @@
 ## contents
 </br>
 
-[READEME](./README.md)
+[README](./README.md)
 
 
 <details><summary>Files</summary>
@@ -22,7 +22,7 @@
 [L](./LICENSE.md)
 </details>
 
-<details><summary>サンプルコード</summary>
+<details><summary>TEST</summary>
 
 (上に空行が必要)
 
