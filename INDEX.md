@@ -4,10 +4,11 @@
 </br>
 
 [プロジェクト・サイト_main](https://restart-pc.super.site/)
+
 [main / Opens in new tab](https://external.ink?to=/restart-pc.super.site/)
 
 [プロジェクト・サイト_sub](https://restartpc.siteoly.com/)
-[sub / Opens in new tab](https://external.ink?to=/restartpc.siteoly.com/)
+
 
 ## contents
 </br>
